@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM armbuild/debian:jessie
 
 MAINTAINER Richard Arends <richard@mosibi.nl>
 
